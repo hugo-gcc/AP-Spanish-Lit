@@ -2,12 +2,18 @@ body {
     margin: 0;
     background: #0f172a;
     color: #f8fafc;
-    font-family: Arial, sans-serif;
+    font-family: "Josefin Sans", sans-serif;
 }
 
 h1 {
-    font-size: 48px;
+    font-family: "Lobster Two", cursive;
+    font-size: 64px;
     margin-bottom: 16px;
+}
+
+h2 {
+    font-family: "Lobster Two", cursive;
+    font-size: 36px;
 }
 
 p {
