@@ -10,7 +10,7 @@
 }
 
 .site-logo {
-    width: 50px;
+    width: 150px;
     height: auto;
 }
 
@@ -34,4 +34,13 @@
     height: 2px;
     background: #FFFFED;
     border-radius: 2px;
+}
+
+body {
+    font-family: "Josefin Sans", sans-serif;
+}
+
+h1,
+h2 {
+    font-family: "Lobster Two", cursive;
 }
