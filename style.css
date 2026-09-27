@@ -10,7 +10,7 @@
 }
 
 .site-logo {
-    width: 150px;
+    width: 140px;
     height: auto;
 }
 
@@ -32,11 +32,14 @@
     display: block;
     width: 28px;
     height: 2px;
-    background: #FFFFED;
+    background: #172B4D;
     border-radius: 2px;
 }
 
 body {
+    margin: 0;
+    background: F7F1E3
+    color: #172B4D
     font-family: "Josefin Sans", sans-serif;
 }
 
